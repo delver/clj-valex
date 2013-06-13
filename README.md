@@ -45,6 +45,8 @@ TODO
 
 * [A Large Subcategorization Lexicon for Natural Language Processing Applications](http://www.cl.cam.ac.uk/users/alk23/lrec06-lexicon.pdf) [PDF]
 
+* http://commons.apache.org/proper/commons-compress/
+
 ## License
 
 MIT / [Creative Commons 3.0](http://creativecommons.org/licenses/by/3.0/legalcode)

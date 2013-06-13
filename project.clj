@@ -4,9 +4,9 @@
   :license {:name "Creative Commons 3.0"
             :url "http://creativecommons.org/licenses/by/3.0/legalcode"}
   :dependencies [[org.clojure/clojure "1.5.1"]
-                 [org.apache.commons/commons-compress "1.5"]]
+                 [org.apache.commons/commons-compress "1.5"]
+                 [instaparse "1.1.0"]]
   :source-path "src"
   :min-lein-version "2.1.1"
   :description "TODO" 
-  :warn-on-reflection true
-) 
+  :warn-on-reflection true) 
