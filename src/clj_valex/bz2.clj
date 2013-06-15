@@ -34,6 +34,5 @@
    Note: the function should not be lazy, as the stream will be closed 
    before returning"
   [bz2-file reader-fn]
-  (let [sb (StringBuilder.)]
-    (with-open [#^BufferedReader rdr (buffered-reader bz2-file)]
-      (reader-fn rdr))))
+  (with-open [#^BufferedReader rdr (buffered-reader bz2-file)]
+    (reader-fn rdr)))
