@@ -7,6 +7,6 @@
                  [org.apache.commons/commons-compress "1.5"]
                  [instaparse "1.1.0"]]
   :source-path "src"
-  :min-lein-version "2.1.1"
+  :min-lein-version "2.2.0"
   :description "TODO" 
-  :warn-on-reflection true) 
+  :global-vars { *warn-on-reflection* true }) 

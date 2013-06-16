@@ -7,7 +7,7 @@ Clojure API to a large subcategorization lexicon for processing English verbs
 
 ## Prerequisites
 
-You will need [Leiningen](https://github.com/technomancy/leiningen) 2.1.2 or
+You will need [Leiningen](https://github.com/technomancy/leiningen) 2.2.0 or
 above installed.
 
 ## Building
