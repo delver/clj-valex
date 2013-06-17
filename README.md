@@ -45,6 +45,8 @@ TODO
 
 * [A Large Subcategorization Lexicon for Natural Language Processing Applications](http://www.cl.cam.ac.uk/users/alk23/lrec06-lexicon.pdf) [PDF]
 
+* http://sslmit.unibo.it/~baroni/collocazioni/bnctagset.txt
+
 * http://commons.apache.org/proper/commons-compress/
 
 * [Instaparse README](https://github.com/Engelberg/instaparse/blob/master/README.md)
