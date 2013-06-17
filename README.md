@@ -1,7 +1,5 @@
-Clj-valex
+Clj-valex [![Build Status](https://secure.travis-ci.org/delver/clj-valex.png)](http://travis-ci.org/delver/clj-valex)
 =========
-
-[![Build Status](https://secure.travis-ci.org/delver/clj-valex.png)](http://travis-ci.org/delver/clj-valex)
 
 Clojure API to a large subcategorization lexicon for processing English verbs
 
