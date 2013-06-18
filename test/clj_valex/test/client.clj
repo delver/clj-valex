@@ -58,10 +58,16 @@
              :TLTL :SLTL NIL :OLT1L :OLT2L NIL :OLT3L NIL :LRL 0)
         )") 
 
-(photograph (comp lexer to-string)) 
+(time
+(first (photograph (comp lexer to-string)))) 
+
+(time
+(photograph (comp lexer to-string))) 
 
  
+(time
+  (first
 (send-lex (comp lexer to-string))
-  
+))  
 
 ) 
