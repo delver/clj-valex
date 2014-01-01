@@ -54,3 +54,7 @@ TODO
 ## License
 
 MIT / [Creative Commons 3.0](http://creativecommons.org/licenses/by/3.0/legalcode)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/delver/clj-valex/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
